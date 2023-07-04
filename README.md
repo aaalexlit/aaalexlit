@@ -27,6 +27,8 @@ Course FAQ Google Document and Course repo get indexed to the Pinecone vector st
 ### Project Repo
 [MLOps Zoomcamp QA Bot](https://github.com/aaalexlit/faq-slack-bot)
 
+---
+
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaalexlit&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaalexlit&size_weight=0&count_weight=1&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
