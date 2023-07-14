@@ -23,6 +23,8 @@ Then this information is passed as a context to a conversational LLM to form the
 **Semantic Search**  
 [Sentence Transformers](https://www.sbert.net/)  
 
+[![Alternate Text](https://cdn.loom.com/sessions/thumbnails/8c80ed43bf2142a19865aeb6d89a3e1e-1688983509551-with-play.gif)](https://www.loom.com/embed/8c80ed43bf2142a19865aeb6d89a3e1e?sid=ce5ad875-d7f3-40cf-9e59-e18a7db9c02e "Link Title")
+
 ### Project Repo
 [MLOps Zoomcamp QA Bot](https://github.com/aaalexlit/faq-slack-bot)
 
