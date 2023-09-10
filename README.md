@@ -2,16 +2,25 @@
 
 I'm a long-time Software Developer and I'm interested in everything ML/AI
 
-🌱 I’m currently learning with DataTalks Club [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+🌱 I’m currently learning with DataTalks Club [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 
 # My recent projects:
-## Question Answering Slack bot to accompany the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) by [DataTalksClub](https://www.linkedin.com/company/datatalks-club/)
+
+- [LLM-powered Question Answering Slack bot](#llm-powered-question-answering-slack-bot)
+- [End-to-end MLOps Pipeline](#end-to-end-mlops-pipeline)
+- [Climate change-related news articles Scientific verification](#climate-change-related-news-articles-scientific-verification)
+
+   
+## LLM-powered Question Answering Slack bot
+### to accompany the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) by [DataTalksClub](https://www.linkedin.com/company/datatalks-club/)
 
 ### Behind the scenes
 
 Course FAQ Google Document and the Course repo get indexed to the Pinecone vector store.  
 Then semantic search retrieves the most similar (and hopefully most relevant) pieces to the question asked.  
 Then this information is passed as a context to a conversational LLM to form the final answer.
+
+![The workflow](https://github.com/aaalexlit/faq-slack-bot/blob/main/Mlops_chatbot_diagram.png)
 
 ### Components 
 **The Star of the show**  
@@ -29,8 +38,17 @@ Then this information is passed as a context to a conversational LLM to form the
 [MLOps Zoomcamp QA Bot](https://github.com/aaalexlit/faq-slack-bot)
 
 ---
+## End-to-end MLOps Pipeline
 
-## A tool and an API for Climate change-related news articles Scientific verification and Global warming stance detection
+### Project Repos
+1. [Training pipeline](https://github.com/aaalexlit/capitalbikeshare-mlops)
+2. [Prediction web service](https://github.com/aaalexlit/capitalbikeshare-service)
+3. [Prediction web service IAC](https://github.com/aaalexlit/capitalbikeshare-service-terraform)
+
+---
+## Climate change-related news articles Scientific verification
+
+A tool and an API for Climate change-related news articles Scientific verification and Global warming stance detection
 
 ### Components 
 **NLP Framework**  
