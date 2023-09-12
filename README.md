@@ -8,7 +8,7 @@ I'm a long-time Software Developer and I'm interested in everything ML/AI
 
 - [LLM-powered Question Answering Slack bot](#llm-powered-question-answering-slack-bot)
 - [End-to-end MLOps Pipeline](#end-to-end-mlops-pipeline)
-- [Climate change-related news articles Scientific verification](#climate-change-related-news-articles-scientific-verification)
+- [Climate change-related news articles Scientific verification](#climate-change-related-news-articles-scientific-verification) (NLP-powered project for [Omdena](https://omdena.com/))
 
    
 ## LLM-powered Question Answering Slack bot
