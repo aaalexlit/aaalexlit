@@ -40,6 +40,7 @@ Then this information is passed as a context to a conversational LLM to form the
 ---
 ## End-to-end MLOps Pipeline
 
+![Workflow diagram](https://github.com/aaalexlit/capitalbikeshare-mlops/blob/main/docs/images/full_diagram_white.png)
 ### Project Repos
 1. [Training pipeline](https://github.com/aaalexlit/capitalbikeshare-mlops)
 2. [Prediction web service](https://github.com/aaalexlit/capitalbikeshare-service)
