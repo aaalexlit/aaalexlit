@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-I'm a long-time Software Developer and I'm interested in everything ML/AI
+I'm a seasoned Software Developer and I'm interested in everything ML/AI
 
 🌱 I’m currently learning with DataTalks Club [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 
