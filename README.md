@@ -12,9 +12,32 @@ I'm a seasoned Software Developer and I'm interested in everything ML/AI
 
    
 ## LLM-powered Question Answering Slack bot
-### to accompany the [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) by [DataTalksClub](https://www.linkedin.com/company/datatalks-club/)
+### to accompany 3 Zoomcamps by [DataTalksClub](https://www.linkedin.com/company/datatalks-club/)
+
+### Project Repo
+[Zoomcamp QA Bot](https://github.com/aaalexlit/faq-slack-bot)
 
 ### Behind the scenes
+**DE and ML Zoomcamps branch**
+
+### Tech stack 
+**Connecting the dots**  
+[Llamaindex](https://www.llamaindex.ai/)  
+**Vertor DB**  
+[Milvus](https://milvus.io/) and
+[Zilliz (Cloud-Native Milvus)](https://zilliz.com/)  
+**Orchestration**  
+[Prefect](https://www.prefect.io/)  
+**Embeddings**  
+[BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)  
+**Re-ranker**  
+[Cohere re-ranker](https://cohere.com/rerank)  
+
+
+![The ingestion](https://github.com/aaalexlit/faq-slack-bot/blob/main/slack_bot_custom_ingestion.png)
+
+
+**MLOps Zoomcamp branch**
 
 Course FAQ Google Document and the Course repo get indexed to the Pinecone vector store.  
 Then semantic search retrieves the most similar (and hopefully most relevant) pieces to the question asked.  
@@ -33,9 +56,6 @@ Then this information is passed as a context to a conversational LLM to form the
 [Sentence Transformers](https://www.sbert.net/)  
 
 [![Alternate Text](https://cdn.loom.com/sessions/thumbnails/8c80ed43bf2142a19865aeb6d89a3e1e-1688983509551-with-play.gif)](https://www.youtube.com/embed/ZTjrkcQIq6Q "MLOps FAQ Bot Demo")
-
-### Project Repo
-[MLOps Zoomcamp QA Bot](https://github.com/aaalexlit/faq-slack-bot)
 
 ---
 ## End-to-end MLOps Pipeline
