@@ -6,7 +6,8 @@ I'm a seasoned Software Developer and I'm interested in everything ML/AI
 
 # My recent projects:
 
-- [LLM-powered Question Answering Slack bot](#llm-powered-question-answering-slack-bot)
+- [LLM-powered Question Answering Slack bot](#llm-powered-question-answering-slack-bot) (Ongoing)
+- [Diabetes classification model training and deployment](#diabetes-classification-model-training-and-deployment)
 - [End-to-end MLOps Pipeline](#end-to-end-mlops-pipeline)
 - [Climate change-related news articles Scientific verification](#climate-change-related-news-articles-scientific-verification) (NLP-powered project for [Omdena](https://omdena.com/))
 
@@ -56,6 +57,22 @@ Then this information is passed as a context to a conversational LLM to form the
 [Sentence Transformers](https://www.sbert.net/)  
 
 [![Alternate Text](https://cdn.loom.com/sessions/thumbnails/8c80ed43bf2142a19865aeb6d89a3e1e-1688983509551-with-play.gif)](https://www.youtube.com/embed/ZTjrkcQIq6Q "MLOps FAQ Bot Demo")
+
+---
+## Diabetes classification model training and deployment
+
+### Project Repo
+[MLZoomcamp Midterm project](https://github.com/aaalexlit/ml_zoomcamp_midterm_cdc_diabetes)
+
+- Trained several models
+  - Logistic regression
+  - Random Forest
+  - [XGBoost](https://xgboost.ai/)
+- Hyperparameter finetuning with
+  - [Optuna](https://optuna.org/)
+  - [Hyperopt](https://hyperopt.github.io/hyperopt/)
+  - [Wandb Sweeps](https://docs.wandb.ai/guides/sweeps)
+- Deploy containerized model with [FastAPI](https://fastapi.tiangolo.com/) on [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk)
 
 ---
 ## End-to-end MLOps Pipeline
