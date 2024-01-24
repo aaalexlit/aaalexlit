@@ -2,7 +2,7 @@
 
 I'm a seasoned Software Developer and I'm interested in everything ML/AI
 
-🌱 I’m currently learning with DataTalks Club [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+🌱 I’m currently learning with DataTalks Club [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 # My recent projects:
 
