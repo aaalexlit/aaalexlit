@@ -7,6 +7,7 @@ I'm a seasoned Software Developer and I'm interested in everything ML/AI
 # My recent projects:
 
 - [LLM-powered Question Answering Slack bot](#llm-powered-question-answering-slack-bot) (Ongoing)
+- [End-to-end ML Project on Blood Vessel Segmentation](#blood-vessel-segmentation)
 - [Diabetes classification model training and deployment](#diabetes-classification-model-training-and-deployment)
 - [End-to-end MLOps Pipeline](#end-to-end-mlops-pipeline)
 - [Climate change-related news articles Scientific verification](#climate-change-related-news-articles-scientific-verification) (NLP-powered project for [Omdena](https://omdena.com/))
@@ -59,6 +60,20 @@ Then this information is passed as a context to a conversational LLM to form the
 [![Alternate Text](https://cdn.loom.com/sessions/thumbnails/8c80ed43bf2142a19865aeb6d89a3e1e-1688983509551-with-play.gif)](https://www.youtube.com/embed/ZTjrkcQIq6Q "MLOps FAQ Bot Demo")
 
 ---
+## Blood Vessel Segmentation
+
+Fine-tune [Ultralytics](https://www.ultralytics.com/) [YOLOv8](https://github.com/ultralytics/ultralytics) segmentation model on 
+3D Hierarchical Phase-Contrast Tomography (HiP-CT) data from human kidneys to segment blood vessels.
+
+### Project Repo
+[Hacking the Human Vasculature](https://github.com/aaalexlit/hacking-human-vasculature)
+
+EDA => Training => Hyperparameter tuning => Deployment as a service (FastAPI) => Containerization => Deployment to AWS EKS
+
+![FastAPI Service screenshot](https://github.com/aaalexlit/hacking-human-vasculature/blob/main/images/openaoi_ui.png?raw=true)
+
+---
+
 ## Diabetes classification model training and deployment
 
 ### Project Repo
