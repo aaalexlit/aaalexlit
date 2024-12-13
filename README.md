@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-I'm a seasoned Software Developer and I'm interested in everything ML/AI
+I'm an AI/Data Engineer and I'm interested in everything ML/AI
 
 🌱 I’m currently learning with DataTalks Club [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
