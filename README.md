@@ -1,26 +1,25 @@
 ### Hi, I'm Alex 👋
 
-I'm an AI/Data Engineer and I'm interested in everything ML/AI
+I'm an AI/Data Engineer, and I'm interested in everything ML/AI
 
-🌱 I’m currently learning with DataTalks Club [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+🌱 I’m currently [Improving my statistical inferences](https://www.coursera.org/learn/statistical-inferences) with the help of wonderful [Daniel Lakens](https://www.tue.nl/en/research/researchers/daniel-lakens)
 
 # My recent projects:
 
 - [LLM-powered Question Answering Slack bot](#llm-powered-question-answering-slack-bot) (Ongoing)
-- [End-to-end ML Project on Blood Vessel Segmentation](#blood-vessel-segmentation)
+- [End-to-end ML Vision Project on Blood Vessel Segmentation](#blood-vessel-segmentation)
 - [Diabetes classification model training and deployment](#diabetes-classification-model-training-and-deployment)
 - [End-to-end MLOps Pipeline](#end-to-end-mlops-pipeline)
 - [Climate change-related news articles Scientific verification](#climate-change-related-news-articles-scientific-verification) (NLP-powered project for [Omdena](https://omdena.com/))
 
    
 ## LLM-powered Question Answering Slack bot
-### to accompany 3 Zoomcamps by [DataTalksClub](https://www.linkedin.com/company/datatalks-club/)
+### to accompany 4 Zoomcamps by [DataTalksClub](https://www.linkedin.com/company/datatalks-club/)
 
 ### Project Repo
 [Zoomcamp QA Bot](https://github.com/aaalexlit/faq-slack-bot)
 
 ### Behind the scenes
-**DE and ML Zoomcamps branch**
 
 ### Tech stack 
 **Connecting the dots**  
@@ -37,25 +36,6 @@ I'm an AI/Data Engineer and I'm interested in everything ML/AI
 
 
 ![The ingestion](https://github.com/aaalexlit/faq-slack-bot/blob/main/slack_bot_custom_ingestion.png)
-
-
-**MLOps Zoomcamp branch**
-
-Course FAQ Google Document and the Course repo get indexed to the Pinecone vector store.  
-Then semantic search retrieves the most similar (and hopefully most relevant) pieces to the question asked.  
-Then this information is passed as a context to a conversational LLM to form the final answer.
-
-![The workflow](https://github.com/aaalexlit/faq-slack-bot/blob/main/Mlops_chatbot_diagram.png)
-
-### Components 
-**The Star of the show**  
-[LangChain](https://github.com/hwchase17/langchain)  
-**Vertor DB**  
-[Pinecone](https://www.pinecone.io/)  
-**Orchestration**  
-[Prefect](https://www.prefect.io/)  
-**Semantic Search**  
-[Sentence Transformers](https://www.sbert.net/)  
 
 [![Alternate Text](https://cdn.loom.com/sessions/thumbnails/8c80ed43bf2142a19865aeb6d89a3e1e-1688983509551-with-play.gif)](https://www.youtube.com/embed/ZTjrkcQIq6Q "MLOps FAQ Bot Demo")
 
